@@ -1,8 +1,6 @@
-# 1. 数据基础 Project
+# 1. 数据基础学习项目
 
 ```markdown
-# 📘 数据基础学习项目
-
 ## 📌 项目简介
 
 本项目为数据分析基础学习过程中的实验记录与练习合集。
@@ -33,11 +31,10 @@
 直接打开 notebook 运行即可：
 
 ```bash
-jupyter notebook
+
 
 ---
 
----
 
 #  2. 数据分析智能体（Data Analysis Agent）
 
@@ -87,9 +84,6 @@ streamlit run 数据分析智能体.ipynb
 
 ---
 
-
-
----
 
 #  3. Car Sales Data Analysis App（汽车销售分析）
 
@@ -192,4 +186,4 @@ streamlit run app(1).py
 ## 🚀 运行方式
 
 ```bash
-python trip_planner_agent.py
+
